@@ -1,3 +1,12 @@
+// trigger to play music in the background with sweetalert
+window.addEventListener('load', () => {
+
+            animationTimeline();
+
+    });
+
+
+
 // animation timeline
 const animationTimeline = () => {
     // split chars that needs to be animated individually
